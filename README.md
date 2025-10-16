@@ -59,7 +59,7 @@ The dataset contains records of customers who made their last purchases between 
 ---
 
 ## 🔗 Links
-- [📖 Medium Article]([https://medium.com/@yourusername](https://medium.com/@sinemelifelma/customer-segmentation-with-rfm-understanding-omnichannel-shopping-behavior-through-data-3d46a8ef80b0)
+- [📖 Medium Article](https://medium.com/@sinemelifelma/customer-segmentation-with-rfm-understanding-omnichannel-shopping-behavior-through-data-3d46a8ef80b0))
 - [💻 Kaggle Notebook](https://www.kaggle.com/code/sinemelifelma/omnichannel-crm-analysis-rfm-segmentation)
 - [📂 GitHub Repository](https://github.com/yourusername/OmniChannel_CRM_Analysis)
 
